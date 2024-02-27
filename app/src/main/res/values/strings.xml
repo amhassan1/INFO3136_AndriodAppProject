@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AbdulazizRayanProject1</string>
+    <string name="name_hint">Enter your name here</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="name_required">Name is required</string>
+    <string name="all_fields_required">All fields are required</string>
+    <string name="welcome_back">Welcome back, %1$s</string>
+    <string name="book">Book</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="enter_book_data">Enter Book Data:</string>
+    <string name="enter_movie_data">Enter Movie Data:</string>
+    <string name="enter_tv_show_data">Enter TV Show Data:</string>
+    <string name="rating">Rating:</string>
+    <string name="year">Year</string>
+    <string name="title">Title</string>
+    <string name="entries">Entries</string>
+    <string name="submit">Submit</string>
+    <string name="book_submission">"Book: %s (%s), %.1f/5.0"</string>
+    <string name="movie_submission">"Movie: %s (%s), %.1f/5.0"</string>
+    <string name="tv_submission">"TV Show: %s (%s), %.1f/5.0"</string>
+</resources>
